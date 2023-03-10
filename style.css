@@ -1,0 +1,19 @@
+body {
+font-family: monospace;
+margin: 0;
+padding: 0;
+}
+
+section {
+padding: 50px;
+}
+
+section h2 {
+margin-top: 0;
+}
+
+section p {
+font-size: 20px;
+
+}
+
