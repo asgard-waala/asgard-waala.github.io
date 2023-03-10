@@ -1,1 +1,0 @@
-# asgard-waala.github.io
